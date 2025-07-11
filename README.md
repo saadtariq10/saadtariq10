@@ -61,13 +61,25 @@ I'm an AI Engineer with hands-on experience designing, deploying, and optimizing
 
 ---
 
-## 📚 Certifications
+## 🏆 Certifications & Achievements
 
-- 🧠 *ChatGPT Prompt Engineering for Developers* – DeepLearning.ai  
-- ⚙️ *Building Systems with ChatGPT API* – DeepLearning.ai  
-- 🤖 *AI For Everyone* – DeepLearning.ai  
-- 📈 *Data Analyst Bootcamp* – Alex the Analyst  
-- 🧪 *Git Training* – Simplilearn
+- 🧠 [ChatGPT Prompt Engineering for Developers – DeepLearning.AI](https://coursera.org/share/your-link)
+- ⚙️ [Building Systems with the ChatGPT API – DeepLearning.AI](https://coursera.org/share/your-link)
+- 🤖 AI For Everyone – DeepLearning.AI
+- 📊 Data Analyst Bootcamp – Alex The Analyst
+- 🧰 Git Training – Simplilearn
+
+---
+
+### 🎖️ Academic & University Awards
+
+- 🥇 **1st Position** – Final Year Project Exhibition, Dept. of Software Engineering  
+  📍 *Open House 2025, NUML Islamabad*  
+  🛠️ *Project: Avatar-based Voice Interview Simulator (LLMs, STT/TTS, Three.js)*
+
+- 📜 **Certificate of Participation** – Open House 2025, NUML Islamabad  
+- 🧠 **Attendee & Contributor** – SoftFest 2024 & 2025, NUML Islamabad
+
 
 ---
 
