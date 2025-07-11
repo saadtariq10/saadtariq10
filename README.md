@@ -73,15 +73,9 @@ I'm an AI Engineer with hands-on experience designing, deploying, and optimizing
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=saadtariq10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="49%" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtariq10&layout=compact&theme=radical&langs_count=10" width="49%" />
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadtariq10&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadtariq10&layout=compact&theme=radical)
 
-</div>
 
 
 
