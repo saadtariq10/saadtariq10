@@ -63,11 +63,11 @@ I'm an AI Engineer with hands-on experience designing, deploying, and optimizing
 
 ## 🏆 Certifications & Achievements
 
-- 🧠 [ChatGPT Prompt Engineering for Developers – DeepLearning.AI](https://coursera.org/share/your-link)
-- ⚙️ [Building Systems with the ChatGPT API – DeepLearning.AI](https://coursera.org/share/your-link)
-- 🤖 AI For Everyone – DeepLearning.AI
-- 📊 Data Analyst Bootcamp – Alex The Analyst
-- 🧰 Git Training – Simplilearn
+- 🧠 [ChatGPT Prompt Engineering for Developers – DeepLearning.AI](https://learn.deeplearning.ai/accomplishments/d6625e39-11ef-49df-bafd-847b2d3666d6?usp=sharing)
+- ⚙️ [Building Systems with the ChatGPT API – DeepLearning.AI](https://learn.deeplearning.ai/accomplishments/18504102-c0df-4029-ae73-ecd388a148fe?usp=sharing)
+- 🤖 [AI For Everyone – DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/NE7BYKQKK86A)
+- 📊 [Data Analyst Bootcamp – Alex The Analyst](https://drive.google.com/file/d/1U3fOCSxchl8jew-HzLQ_8p6jObPSt-8D/view?usp=sharing)
+- 🧰 [Git Training – Simplilearn](https://certificates.simplicdn.net/share/7960820_82985301740505833400.png)
 
 ---
 
