@@ -6,7 +6,6 @@ I'm an AI Engineer with hands-on experience designing, deploying, and optimizing
 
 📍 Rawalpindi, Pakistan  
 📧 saadtariq232@gmail.com  
-📞 +92 301 9233230  
 🌐 [Portfolio Website](https://saadtariq10.github.io/PortfolioWebsite)  
 🔗 [LinkedIn](https://www.linkedin.com/in/saad-tariq-04328b254) | [GitHub](https://github.com/saadtariq10) | [Instagram](https://www.instagram.com/reelsbysaad_)
 
@@ -72,11 +71,36 @@ I'm an AI Engineer with hands-on experience designing, deploying, and optimizing
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadtariq10&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadtariq10&layout=compact&theme=radical)
+<div align="center">
+  
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=saadtariq10&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/saadtariq10?style=social" alt="GitHub Followers" />
 
----
+  <br><br>
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saadtariq10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtariq10&layout=compact&theme=radical&hide_border=true&langs_count=10" width="49%" />
+
+  <br><br>
+
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadtariq10&theme=radical&hide_border=true" width="99%" />
+
+  <br><br>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=saadtariq10&theme=radical&column=7&margin-w=15" width="100%" />
+
+  <br><br>
+
+  <!-- Contribution Snake (optional, needs GitHub Action setup) -->
+  ![snake gif](https://github.com/saadtariq10/saadtariq10/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 > _"Build with intent. Automate with intelligence. Ship with confidence."_ 🚀
